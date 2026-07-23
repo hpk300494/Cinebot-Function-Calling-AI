@@ -1,4 +1,11 @@
 # 🎬 CineBot – AI Movie Recommendation Chatbot
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-Function%20Calling-green)
+
+![LLM](https://img.shields.io/badge/LLM-Generative%20AI-orange)
+
+![License](https://img.shields.io/badge/License-MIT-red)
 
 An intelligent movie recommendation chatbot built using **Large Language Models (LLMs)** and **OpenAI Function Calling**.
 
