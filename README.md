@@ -26,6 +26,20 @@ The objective was to build an AI-powered conversational assistant capable of:
 - Demonstrating modern LLM application architecture
 
 ---
+## Project Documentation
+
+A detailed technical report describing:
+
+- System Architecture
+- Dataset
+- Recommendation Engine
+- Data Processing
+- EDA
+- Chatbot Design
+- Results
+
+📄 **Project Report:** [docs/CineBot_Project_Report.pdf](docs/CineBot_Project_Report.pdf)
+---
 
 ## Features
 
